@@ -1,0 +1,127 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_maindiv {
+    border: 1px solid #AAAAAA;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_maindiv img {
+    width: 100%;
+}
+
+.travel_maindiv hr {
+    width: 230px;
+}
+
+.travel_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head span {
+    color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+    background:
+}
+
+.environment_li {
+    margin-top: 15px;
+}
+
+.environment_li h4 {
+    border-bottom: 5px solid white;
+    padding: 10px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+
+#contact img {
+    width: 200px;
+}
+
+#Contact {
+    margin-top: 20px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.p_modal,
+.modal_content {
+    margin-top: 10px;
+}
+
+#lol {
+    line-height: 2px;
+}
+
+#img_1 {
+    width: 70px;
+    height: 30px;
+}
+
+h1 {
+    font: 200px;
+    text-align: center;
+}
+
+#logo {
+    height: 60px;
+    width: 135px;
+    padding: 5px;
+}
+marquee{
+    font-size: 20px;
+    font-weight: bold;
+    color: dodgerblue;
+
+}
+#video{
+    margin-top: 20px;
+}
+body{
+    
+}
+img{
+    width:250px;
+}
+
